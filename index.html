@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GATE ECE Notes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = { darkMode: 'class', theme: { extend: { fontFamily: { sans: ['"IBM Plex Sans"', 'system-ui', 'sans-serif'] } } } };
+  try { if (localStorage.getItem('theme') === 'dark' || (!localStorage.getItem('theme') && matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark'); } catch (e) {}
+</script>
+<style>
+  .tabs::-webkit-scrollbar { height: 4px } .tabs::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 4px }
+  :focus-visible { outline: 2px solid #0d9488; outline-offset: 2px }
+</style>
+</head>
+<body class="font-sans bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 min-h-screen">
+
+<header class="sticky top-0 z-20 bg-white/95 dark:bg-slate-900/95 backdrop-blur border-b border-slate-300 dark:border-slate-700">
+  <div class="max-w-5xl mx-auto px-4 py-3 flex flex-wrap items-center gap-3">
+    <h1 class="font-semibold text-lg mr-auto">GATE ECE Notes</h1>
+    <button id="themeBtn" class="px-3 py-1.5 text-sm border border-slate-300 dark:border-slate-600 rounded-md hover:bg-slate-100 dark:hover:bg-slate-800">Dark</button>
+    <button id="modeBtn" class="px-3 py-1.5 text-sm border border-teal-700 text-teal-800 dark:text-teal-300 dark:border-teal-500 rounded-md hover:bg-teal-50 dark:hover:bg-teal-950">Switch to Admin Mode</button>
+  </div>
+  <div id="adminBar" class="hidden border-t border-amber-300 dark:border-amber-700 bg-amber-50 dark:bg-amber-950/40">
+    <div class="max-w-5xl mx-auto px-4 py-2 flex flex-wrap items-center gap-2 text-sm">
+      <span id="dirtyMsg" class="mr-auto text-amber-900 dark:text-amber-200">Admin mode: edits stay in this tab until you export them.</span>
+      <button id="copyBtn" class="px-3 py-1.5 rounded-md bg-teal-700 text-white hover:bg-teal-800">Copy Updated JSON</button>
+      <button id="dlBtn" class="px-3 py-1.5 rounded-md border border-teal-700 text-teal-800 dark:text-teal-300 dark:border-teal-500 hover:bg-teal-50 dark:hover:bg-teal-950">Download data.json</button>
+    </div>
+  </div>
+</header>
+
+<main class="max-w-5xl mx-auto px-4 py-5">
+  <input id="search" type="search" placeholder="Search topics across all subjects" class="w-full mb-4 px-3 py-2 rounded-md border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 placeholder-slate-400">
+
+  <select id="subjectSel" class="sm:hidden w-full mb-3 px-3 py-2 rounded-md border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900"></select>
+  <nav id="tabs" class="tabs hidden sm:flex gap-1 overflow-x-auto pb-2 mb-3 border-b border-slate-300 dark:border-slate-700"></nav>
+  <div id="subjectTools" class="hidden flex-wrap gap-2 mb-3 text-sm"></div>
+
+  <div id="view" class="rounded-md border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-900 overflow-x-auto"></div>
+  <div id="addTopicWrap" class="hidden mt-3"><button id="addTopicBtn" class="px-3 py-1.5 text-sm rounded-md border border-dashed border-teal-700 text-teal-800 dark:text-teal-300 dark:border-teal-500 hover:bg-teal-50 dark:hover:bg-teal-950">+ Add Topic</button></div>
+</main>
+
+<div id="modal" class="hidden fixed inset-0 z-30 bg-black/50 items-start justify-center overflow-y-auto p-4"></div>
+<div id="toast" class="hidden fixed bottom-4 left-1/2 -translate-x-1/2 z-40 px-4 py-2 rounded-md bg-slate-900 text-white dark:bg-slate-100 dark:text-slate-900 text-sm shadow"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1991 @@
+{
+  "subjects": [
+    {
+      "id": "network-theory",
+      "name": "Network Theory",
+      "topics": [
+        {
+          "name": "KVL, KCL, Nodal and Mesh Analysis",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": "https://mega.nz/file/PLACEHOLDER1#KEY"
+            },
+            {
+              "label": "Lecture 2",
+              "url": "https://mega.nz/file/PLACEHOLDER2#KEY"
+            },
+            {
+              "label": "Short Notes",
+              "url": "https://mega.nz/file/PLACEHOLDER3#KEY"
+            },
+            {
+              "label": "PYQs",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Thevenin & MPT Theorem",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Reciprocity Theorem",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Initial & Final Condition",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "First Order Transients",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Basics of AC Circuits – Phasors & Impedance",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Power in AC Circuits",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Y, Z and T Parameters",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Resonance",
+          "group": "Network Analysis",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signals-and-systems",
+      "name": "Signals & Systems",
+      "topics": [
+        {
+          "name": "Impulse Function & Periodic Signals",
+          "group": "Signals & Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "LTI Systems & Classification",
+          "group": "Signals & Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Impulse Response & Convolution",
+          "group": "Signals & Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Fourier Series input to LTI System",
+          "group": "Signals & Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "DTFS",
+          "group": "Signals & Systems – Part 1",
+          "optional": true,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "DTFT & DFT",
+          "group": "Signals & Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Fourier Transform & Properties",
+          "group": "Signals & Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "ESD & PSD",
+          "group": "Signals & Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Z-Transform & Properties",
+          "group": "Signals & Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Minimum Phase & All Pass System",
+          "group": "Signals & Systems – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Z-Transform ROC",
+          "group": "Signals & Systems – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Nyquist Rate (Continuous & Discrete)",
+          "group": "Signals & Systems – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "analog-circuits",
+      "name": "Analog Circuits",
+      "topics": [
+        {
+          "name": "Diode Open and Short Circuit Tests",
+          "group": "Analog Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Diode Rectifier and Filters",
+          "group": "Analog Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Clampers",
+          "group": "Analog Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Zener Regulator",
+          "group": "Analog Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "BJT DC Analysis",
+          "group": "Analog Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "BJT Amplifiers (Hybrid-pi)",
+          "group": "Analog Electronics – Part 1",
+          "optional": true,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "MOSFET DC Analysis",
+          "group": "Analog Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Current Mirror",
+          "group": "Analog Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "MOS Amplifiers",
+          "group": "Analog Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "MOSFET Characteristics",
+          "group": "Analog Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Pass Transistor Logic",
+          "group": "Analog Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "CMOS Inverter",
+          "group": "Analog Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Op-Amp Negative Feedback",
+          "group": "Analog Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Active Filters",
+          "group": "Analog Electronics – Part 3",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Oscillators",
+          "group": "Analog Electronics – Part 3",
+          "optional": true,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "digital-circuits",
+      "name": "Digital Circuits",
+      "topics": [
+        {
+          "name": "Number System",
+          "group": "Digital Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Radix",
+          "group": "Digital Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "2's complement representation",
+          "group": "Digital Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Logic Gates",
+          "group": "Digital Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "K-Map and PI/EPI",
+          "group": "Digital Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Multiplexer",
+          "group": "Digital Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Propagation Delay in Adders",
+          "group": "Digital Electronics – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Flip Flops",
+          "group": "Digital Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Counters",
+          "group": "Digital Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Registers",
+          "group": "Digital Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Finite State Machines (State Diagram)",
+          "group": "Digital Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "ADC & DAC",
+          "group": "Digital Electronics – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Parameters of Logic Family",
+          "group": "Digital Electronics – Part 2",
+          "optional": true,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "control-systems",
+      "name": "Control Systems",
+      "topics": [
+        {
+          "name": "Block Diagram & Signal Flow Graphs",
+          "group": "Control Systems",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Second Order Systems",
+          "group": "Control Systems",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Steady State Error",
+          "group": "Control Systems",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Routh Criteria",
+          "group": "Control Systems",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Sinusoidal Analysis",
+          "group": "Control Systems",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Nyquist & Bode Plot",
+          "group": "Control Systems",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Gain & Phase Margin",
+          "group": "Control Systems",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "State Space Analysis",
+          "group": "Control Systems",
+          "optional": true,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Compensators",
+          "group": "Control Systems",
+          "optional": true,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "name": "Communications",
+      "topics": [
+        {
+          "name": "Amplitude & Frequency Modulation",
+          "group": "Communication Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Phase & Delta Modulation",
+          "group": "Communication Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Autocorrelation",
+          "group": "Communication Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Power Spectral Density",
+          "group": "Communication Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Probability of Error",
+          "group": "Communication Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "SNR, Quantization Error, Entropy",
+          "group": "Communication Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Bandwidth and Bit Rate",
+          "group": "Communication Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "White Gaussian Noise",
+          "group": "Communication Systems – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Intersymbol Interference",
+          "group": "Communication Systems – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Matched Filter",
+          "group": "Communication Systems – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "ML & MAP Detector",
+          "group": "Communication Systems – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Hamming & CRC Code",
+          "group": "Communication Systems – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Channel Capacity",
+          "group": "Communication Systems – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "electromagnetics",
+      "name": "Electromagnetics",
+      "topics": [
+        {
+          "name": "Electric & Magnetic Field Basics",
+          "group": "EMFT – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Gauss Law",
+          "group": "EMFT – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Coulomb's Law",
+          "group": "EMFT – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Electric Flux Density & Displacement Current",
+          "group": "EMFT – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Ampere's Law",
+          "group": "EMFT – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Biot-Savart Law",
+          "group": "EMFT – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Continuity Equation",
+          "group": "EMFT – Part 1",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Critical Angle & Skin Depth",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Reflection & Transmission of Plane Wave",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Total Internal Reflection",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Phase & Group Velocity",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Propagation Constant",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "VSWR",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Smith Chart",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Impedance Matching",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "S-Parameters",
+          "group": "EMFT – Part 2",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Wave Equations of Transmission Line",
+          "group": "EMFT – Part 3",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Waveguide (TE & TM)",
+          "group": "EMFT – Part 3",
+          "optional": true,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Antenna",
+          "group": "EMFT – Part 3",
+          "optional": true,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "electronic-devices",
+      "name": "Electronic Devices",
+      "topics": [
+        {
+          "name": "Charge Carrier Generation & Recombination",
+          "group": "EDC – Semiconductor Physics",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Band Diagram & Fermi Level",
+          "group": "EDC – Semiconductor Physics",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Charge Density",
+          "group": "EDC – Semiconductor Physics",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Diffusion & Drift Current",
+          "group": "EDC – Semiconductor Physics",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Photogeneration",
+          "group": "EDC – Semiconductor Physics",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Doping",
+          "group": "EDC – Semiconductor Physics",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Built-in Potential and Depletion Width",
+          "group": "EDC – Junction Devices & BJT",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Junction Capacitance and Diffusion Capacitance",
+          "group": "EDC – Junction Devices & BJT",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Zener Diode",
+          "group": "EDC – Junction Devices & BJT",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "LED",
+          "group": "EDC – Junction Devices & BJT",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "PN Junction Band Diagram",
+          "group": "EDC – Junction Devices & BJT",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Solar Cell",
+          "group": "EDC – Junction Devices & BJT",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "BJT Basics",
+          "group": "EDC – Junction Devices & BJT",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "MOS Capacitor",
+          "group": "EDC – Junction Devices & BJT",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "MOSFET Operation",
+          "group": "EDC – MOSFET",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "MOSFET Transconductance",
+          "group": "EDC – MOSFET",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "engineering-mathematics",
+      "name": "Engineering Mathematics",
+      "topics": [
+        {
+          "name": "EigenValues & Eigen Vectors",
+          "group": "Linear Algebra & Differential Equations",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Vector Spaces",
+          "group": "Linear Algebra & Differential Equations",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Solution of Linear Equations",
+          "group": "Linear Algebra & Differential Equations",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Higher Order Differential Equation",
+          "group": "Linear Algebra & Differential Equations",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Partial DE",
+          "group": "Linear Algebra & Differential Equations",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "First Order DE",
+          "group": "Linear Algebra & Differential Equations",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Maxima & Minima",
+          "group": "Calculus",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Partial Derivative",
+          "group": "Calculus",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Taylor Series",
+          "group": "Calculus",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Multiple Integrals",
+          "group": "Calculus",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Gradient & Directional Derivative",
+          "group": "Calculus",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Divergence & Curl",
+          "group": "Calculus",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Line Integral",
+          "group": "Calculus",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Vector Integral Theorems",
+          "group": "Calculus",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Analytic Functions",
+          "group": "Complex Functions & Probability",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Complex Integrals",
+          "group": "Complex Functions & Probability",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Conditional Probability",
+          "group": "Complex Functions & Probability",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Baye's Theorem",
+          "group": "Complex Functions & Probability",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Expectation & Variance",
+          "group": "Complex Functions & Probability",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Probability Mass Functions",
+          "group": "Complex Functions & Probability",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Binomial, Poisson, Gaussian and Uniform RV",
+          "group": "Complex Functions & Probability",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Transformation of RV",
+          "group": "Complex Functions & Probability",
+          "optional": false,
+          "links": [
+            {
+              "label": "Lecture 1",
+              "url": ""
+            },
+            {
+              "label": "Lecture 2",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general-aptitude",
+      "name": "General Aptitude",
+      "topics": []
+    }
+  ]
+}
