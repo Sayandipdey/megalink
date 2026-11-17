@@ -27,8 +27,10 @@
   <div id="adminBar" class="hidden border-t border-amber-300 dark:border-amber-700 bg-amber-50 dark:bg-amber-950/40">
     <div class="max-w-5xl mx-auto px-4 py-2 flex flex-wrap items-center gap-2 text-sm">
       <span id="dirtyMsg" class="mr-auto text-amber-900 dark:text-amber-200">Admin mode: edits stay in this tab until you export them.</span>
-      <button id="copyBtn" class="px-3 py-1.5 rounded-md bg-teal-700 text-white hover:bg-teal-800">Copy Updated JSON</button>
-      <button id="dlBtn" class="px-3 py-1.5 rounded-md border border-teal-700 text-teal-800 dark:text-teal-300 dark:border-teal-500 hover:bg-teal-50 dark:hover:bg-teal-950">Download data.json</button>
+      <button id="seedBtn" class="px-3 py-1.5 rounded-md border border-slate-400 dark:border-slate-600 hover:bg-white dark:hover:bg-slate-800">Upload data.json to cloud</button>
+      <button id="logoutBtn" class="px-3 py-1.5 rounded-md border border-slate-400 dark:border-slate-600 hover:bg-white dark:hover:bg-slate-800">Sign out</button>
+      <button id="copyBtn" class="px-3 py-1.5 rounded-md bg-teal-700 text-white hover:bg-teal-800">Copy JSON (backup)</button>
+      <button id="dlBtn" class="px-3 py-1.5 rounded-md border border-teal-700 text-teal-800 dark:text-teal-300 dark:border-teal-500 hover:bg-teal-50 dark:hover:bg-teal-950">Download backup</button>
     </div>
   </div>
 </header>
@@ -47,6 +49,6 @@
 <div id="modal" class="hidden fixed inset-0 z-30 bg-black/50 items-start justify-center overflow-y-auto p-4"></div>
 <div id="toast" class="hidden fixed bottom-4 left-1/2 -translate-x-1/2 z-40 px-4 py-2 rounded-md bg-slate-900 text-white dark:bg-slate-100 dark:text-slate-900 text-sm shadow"></div>
 
-<script src="app.js"></script>
+<script type="module" src="app.js"></script>
 </body>
 </html>
